@@ -20,9 +20,9 @@ Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 **Vinicius Matos de Mendonça**  | 📍 Goiânia - GO 
 <a href="https://github.com/Vinnizius1"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/vinmm/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
 
-<img src="https://avatars.githubusercontent.com/u/117789578?v=4" width="124">| Tem 30 anos e é natural de Porto Alegre no RS. Atualmente está cursando sua segunda graduação, Análise e Desenvolvimento de Sistemas na PUCRS, mas já é graduada em Medicina Veterinária na UFRGS. Seu foco é o desenvolvimento FullStack. 
+<img src="https://avatars.githubusercontent.com/u/117789578?v=4" width="124">| Tem 30 anos e é natural de Porto Alegre no RS. Formada em Medicina Veterinária, atualmente está cursando Análise e Desenvolvimento de Sistemas com foco em desenvolvimento FullStack. Possui um grande amor pelos animais, adora assistir séries, nadar e jogar futebol.
 --|--
-**Carolina Castilhos da Silva**  | 📍 Brazil
+**Carolina Castilhos da Silva**  | 📍 Porto Alegre - RS
 <a href="https://github.com/carolinacastilhos"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/carolina-castilhos-da-silva/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
 
 <img src="https://avatars.githubusercontent.com/u/42652243?v=4" width="124">| Tem 27 anos, natural de Teresina - PI. Formado em ADS pela Universidade Norte do Paraná. Gosta de aprender ensinando pessoas. Acha desafiante a lógica de programação. Quer se tornar um desenvolvedor Full Stack. 
