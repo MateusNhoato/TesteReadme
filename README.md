@@ -59,6 +59,12 @@ Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 **Weslley Joaquim Gomes**  | 📍 
 <a href="https://github.com/weslleyjoaquim"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/weslley-joaquim-gomes/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
 
+<img src="https://avatars.githubusercontent.com/u/88977354?v=4" width="124">| Graduado em Análise e Desenvolvimento de Sistemas, e pós-graduado em Administração de Banco de Dados. Fez transição de carreira da educação para tecnologia e hoje trabalho crianda objetos em banco de dados Sql Oracle para integração entre sistemas, e com gerenciamento de projetos.
+--|--
+**Vanderlândio Zeferino Da Rocha**  | 📍 Caruaru - PE
+<a href="https://github.com/Vandorc-Dev"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/vanderlandio-rocha/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
+
+
 ### Monitor
 
 <img src="https://avatars.githubusercontent.com/u/40778373?v=4" width="124">|  Tem 24 anos, mora no interior de São Paulo. Estuda programação a um pouco mais de 6 meses, mas se apaixonou pela área. Colecionador de mangás e viciado em academia.
