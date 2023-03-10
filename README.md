@@ -10,6 +10,36 @@ Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 
 ### Front-end
 
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<img src="https://avatars.githubusercontent.com/u/113543375?v=4" width="124">
+</td>
+<td>
+Formada em biomedicina, está passando por uma transição de carreira. Se considera uma pessoa autoditada e adora buscar novos conhecimentos e desafios. Estuda para ser Full Stack, mas têm preferência pelo front-end. 
+</td>
+</tr>
+<tr>
+<td>
+<b>Stefani de Menezes Araujo Lima</b>
+</td>
+<td>
+ 📍 Santos - SP
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/stefanimalima"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="40px"></a>
+</td>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
+</td>
+</tr>
+ </table>
+
+
+
+
 <img src="https://avatars.githubusercontent.com/u/113543375?v=4">| Tem 26 anos. Formada em biomedicina, está passando por uma transição de carreira. Se considera uma pessoa autoditada e adora buscar novos conhecimentos e desafios. Estuda para ser Full Stack, mas têm preferência pelo front-end. 
 --|--
 **Stefani de Menezes Araujo Lima**  | 📍 Santos - SP
