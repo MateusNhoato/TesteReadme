@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-<img src="https://avatars.githubusercontent.com/u/113543375?v=4" width="200" height="164">| Formada em biomedicina, está passando por uma transição de carreira. Se considera uma pessoa autoditada e adora buscar novos conhecimentos e desafios. Estuda para ser Full Stack, mas têm preferência pelo front-end. 
+<img src="https://avatars.githubusercontent.com/u/113543375?v=4">| Formada em biomedicina, está passando por uma transição de carreira. Se considera uma pessoa autoditada e adora buscar novos conhecimentos e desafios. Estuda para ser Full Stack, mas têm preferência pelo front-end. 
 --|--
 **Stefani de Menezes Araujo Lima**  | 📍 Santos, São Paulo - Brasil
 <a href="https://github.com/stefanimalima"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="100px"></a>| <a href="https://www.linkedin.com/in/1stefanilima/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"> </a>
