@@ -54,7 +54,7 @@ Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 
 ### Banco de Dados
 
-<img src="https://avatars.githubusercontent.com/u/107959293?v=4" width="124">| Sou formado em gestão comercial, mas atualmente trabalho como analista de suporte de TI e estou migrando para a área de desenvolvimento. 
+<img src="https://avatars.githubusercontent.com/u/107959293?v=4" width="124">| Formado em gestão comercial, mas atualmente trabalha como analista de suporte de TI. Está migrando para a área de desenvolvimento. 
 --|--
 **Weslley Joaquim Gomes**  | 📍 
 <a href="https://github.com/weslleyjoaquim"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/weslley-joaquim-gomes/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
