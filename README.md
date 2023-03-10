@@ -56,7 +56,7 @@ Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 
 <img src="https://avatars.githubusercontent.com/u/107959293?v=4" width="124">| Formado em gestão comercial, mas atualmente trabalha como analista de suporte de TI. Está migrando para a área de desenvolvimento. 
 --|--
-**Weslley Joaquim Gomes**  | 📍 
+**Weslley Joaquim Gomes**  | 📍 Brasília - DF
 <a href="https://github.com/weslleyjoaquim"><img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" width="80px"></a>| <a href="https://www.linkedin.com/in/weslley-joaquim-gomes/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"> </a>
 
 <img src="https://avatars.githubusercontent.com/u/88977354?v=4" width="124">| Graduado em Análise e Desenvolvimento de Sistemas, e pós-graduado em Administração de Banco de Dados. Fez transição de carreira da educação para tecnologia e hoje trabalho crianda objetos em banco de dados Sql Oracle para integração entre sistemas, e com gerenciamento de projetos.
