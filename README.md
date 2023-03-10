@@ -3,6 +3,10 @@
 Projeto Ímã Pay, do grupo Code Breakers da turma Sharp Coders.
 
 ## Integrantes do Projeto
+- [Front-end](#front-end)
+- [Back-end](#back-end)
+- [Banco de Dados](#banco-de-dados)
+- [Monitor](#monitor)
 
 ### Front-end
 
